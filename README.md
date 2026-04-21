@@ -10,11 +10,11 @@ Monthly average patronage data (2018-2025) across 5 transport modes - MetroBus, 
 Python | pandas | NumPy | SciPy | Matplotlib | Seaborn | Power BI | DAX | Jupyter Notebook
 
 ## Key Findings
-* 85% demand collapse** in March 2020 (COVID-19 lockdowns)
-* Uneven recovery**: Regional services 95-99% recovered, metro services only 67%
-* Mode explains 70% of variance** - strongest demand predictor
-* 98% weekday premium** - extreme commuter dependency
-* 265,000 daily passengers** permanently lost from metro services
+* 85% demand collapse in March 2020 (COVID-19 lockdowns)
+* Uneven recovery: Regional services 95-99% recovered, metro services only 67%
+* Mode explains 70% of variance - strongest demand predictor
+* 98% weekday premium - extreme commuter dependency
+* 265,000 daily passengers permanently lost from metro services
 
 ## Analysis Components
 * Data cleaning and feature engineering (Period categories, rolling averages)
